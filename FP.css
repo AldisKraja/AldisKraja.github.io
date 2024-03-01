@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: #00BFFF;
+    border-radius: 15px;
+    text-align: left;
+    }
+    h1{color: aqua;
+    text-align: center;
+    font-size: 25;
+    }
+footer p{
+    border: 3px solid wheat;
+}
+.row{
+    background-color: aqua;
+}
